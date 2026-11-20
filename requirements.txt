@@ -1,0 +1,12 @@
+python-dotenv #it is used to dot env file and save the values
+streamlit #it is for user interface
+sentence-transformers #it is used for the embedding model
+langchain-community 
+langchain #both are orchicestration library
+langchain-huggingface # it is used for embeding model in sentence _transformer
+langchain-text-splitters #it is used for splitting the documents into smaller chunks
+unstructured
+unstructured[pdf]  # for reading pdf files
+langchain-unstructured # extension of langchain library
+langchain-chroma # is this used for chroma db and vector db
+langchain-groq # it is llm model
